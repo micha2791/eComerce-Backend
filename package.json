@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mysql": "^2.18.1",
+    "sequelize": "^6.24.0"
+  },
+  "name": "challenge13-ecomerce-backend",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": 
+  },
+  "author": "Michael Correa",
+  "license": "ISC",
+  "bugs": {
+    "url": 
+  },
+  "homepage": 
+}
