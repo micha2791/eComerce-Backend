@@ -1,5 +1,5 @@
 # E-commerce Back End Starter Code
-### Github : https://github.com/sylviaprabudy/tech-blog
+### Github : https://github.com/micha2791/eComerce-Backend
 ## Description
 A backend application for a eComerce site.
 
